@@ -59,7 +59,7 @@ This is a pure front-end project demonstrating strong foundational development s
 
  **Design Reference**
 
-The project UI is meticulously crafted based on the following professional design template:
+The project UI is based on the following professional design template:
 
 * **Figma Template:** [E-commerce Website Template Freebie](https://www.figma.com/design/VrD3Fv5xm06Xo33r4qOQYD/E-commerce-Website-Template--Freebie---Community---Copy-?node-id=0-1&p=f&t=nLYQD1peK0FWnbvY-0)
 
@@ -69,10 +69,10 @@ The project UI is meticulously crafted based on the following professional desig
 
 This project was a collaborative effort by the following team members:
 
-* Nida Eman
-* Neha Farooq
-* Mishal Khushnood
-* Eman Mudassir
+* Nida Eman (index.html)
+* Neha Farooq (category.html)
+* Mishal Khushnood (product-detail.html)
+* Eman Mudassir (cart.html)
 
 ---
 
