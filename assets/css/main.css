@@ -360,6 +360,9 @@ h2.section-title-times {
     gap: 20px;
     height: 550px;
 }
+.style-block.casual a{
+    text-decoration: none;
+}
 .style-block {
     background-color: var(--light-gray-bg);
     border-radius: 10px;
@@ -920,4 +923,5 @@ footer {
         width: 100%; 
         margin-bottom: 15px;
     }
+
 }
